@@ -35,15 +35,15 @@ The dashboard analyzes student attendance, academic performance, subject-wise tr
 
 ## 🔍 Key Insights
 
-- Overall attendance score: "76.25%"
-- Total students: "4"
-- Present records: "27"
-- Absent records: "6"
-- Average marks: "79.25"
-- Ananya Jain recorded the highest attendance at "85%"
-- Ananya Jain also recorded the highest average marks at "86"
-- Business Law and Marketing recorded the highest attendance score at "87.5%"
-- Accounts recorded the lowest attendance score at "62.5%"
+- Overall attendance score: **76.25%**
+- Total students: **4**
+- Present records: **27**
+- Absent records: **6**
+- Average marks: **79.25**
+- Ananya Jain recorded the highest attendance at **85%**
+- Ananya Jain also recorded the highest average marks at **86**
+- Business Law and Marketing recorded the highest attendance score at **87.5%**
+- Accounts recorded the lowest attendance score at **62.5%**
 - Offline attendance score was higher than online attendance
 
 ## 📁 Project Files
@@ -59,8 +59,8 @@ The analysis highlights differences in attendance across students and subjects. 
 
 ## 👨‍💻 Author
 
-"Naman Gaur"
+**Naman Gaur**
 
 Aspiring Data Analyst
 
-"Skills:" Excel | SQL | Power BI | Tableau
+**Skills:** Excel | SQL | Power BI | Tableau
